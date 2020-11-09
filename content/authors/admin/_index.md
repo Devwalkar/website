@@ -1,37 +1,34 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Devesh Walawalkar
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Artificial Intelligence and Computer Vision Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Honeywell
+  url: "https://www.honeywell.com/en-us"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Self Supervised Learning, model evolution, Deep Learning model compression and Scene Understanding.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Vision
+- Robotics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Electrical and Computer Engineering
+    institution: Carnegie Mellon University, USA
+    year: 2019
+  - course: BSc in Electronics Engineering 
+    institution: Veermata Jijabai Technological Institute, India
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +37,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: mailto:devwalkar64@gmail.com  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/devesh-walawalkar-376a87a4/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=MpHIZfEAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Devwalkar
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,7 +54,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "devwalkar64@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -69,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<div style="text-align: justify"> I am an avid researcher in field of Artificial Intelligence, Deep Learning and Computer Vision. My research interests include Object Detection, 2D/3D Instance Segmentation, Deep Learning model compression, Self-Supervised Learning, AI model evolution and Scene Understanding. I also specialize in compute resource constrained real time inference of Deep Learning based Computer Vision models for various mobile devices like Nvidia AI embedded systems, Apple iphone, drones etc.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently working full time as a ML research engineer at Honeywell. I spend my time researching and building AI based perception system for robotics applications as well as working on personal Computer Vision research projects. </div>
