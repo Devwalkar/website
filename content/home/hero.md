@@ -1,14 +1,14 @@
 +++
 # Hero widget.
 widget = "hero"  # See https://wowchemy.com/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 # title = "Academic Template"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-# hero_media = "background.jpg"
+# hero_media = "Intro_background.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -35,4 +35,4 @@ weight = 10  # Order that this section will appear.
 
 +++
 
-“Research is the see what everybody has seen, and to think what nobody else has thought" - Albert Szent-Gyorgyi
+“Research is to see what everybody has seen, and to think what nobody else has thought" - Albert Szent-Gyorgyi
