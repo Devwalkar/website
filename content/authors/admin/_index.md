@@ -25,10 +25,10 @@ education:
   courses:
   - course: MSc in Electrical and Computer Engineering
     institution: Carnegie Mellon University, USA
-    year: 2019
+    year: 
   - course: BSc in Electronics Engineering 
     institution: Veermata Jijabai Technological Institute, India
-    year: 2017
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

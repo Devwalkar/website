@@ -104,7 +104,7 @@ subtitle = ""
   # gradient_end = "#2b94c3"
   
   # Background image.
-  image = "skills_background.jpg"  # Name of image in `static/media/`.
+  image = "Backgrounds/skills_background.jpg"  # Name of image in `static/media/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
