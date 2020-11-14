@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Combined audio-visual model for speech recognition"
-  focal_point: "Bottom"
+  caption: 
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
