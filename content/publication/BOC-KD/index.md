@@ -36,13 +36,12 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://devwalkar.github.io/PrePrints/OEC_KD.pdf
-url_code: https://github.com/Devwalkar/BOC-KD
+url_pdf: "media/Publications/BOC_KD/BOC_KD.pdf"
+url_code: "https://github.com/Devwalkar/BOC-KD"
 url_dataset:
 url_poster:
-url_project:
+url_source: "https://link.springer.com/chapter/10.1007/978-3-030-58529-7_2"
 url_slides: "media/Publications/BOC_KD/BOC_KD_ECCV2020.pdf"
-url_source:
 url_video: "media/Publications/BOC_KD/BOC_KD_ECCV2020.mp4"
 
 # Featured image
