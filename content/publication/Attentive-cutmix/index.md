@@ -16,7 +16,7 @@ publishDate: 2020-02-02
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "45th IEEE International Conference on Acoustics, Speech and Signal Processing 2020"
+publication: "45th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2020"
 publication_short: "ICASSP-2020"
 
 abstract: "Convolutional neural networks (CNN) are capable of learning robust representation with different regularization methods and activations as convolutional layers are spatially correlated. Based on this property, a large variety of regional dropout strategies have been proposed, such as Cutout, DropBlock, CutMix, etc. These methods aim to promote the network to generalize better by partially occluding the discriminative parts of objects. However, all of them perform this operation randomly, without capturing the most important region(s) within an object. In this paper, we propose Attentive CutMix, a naturally enhanced augmentation strategy based on CutMix. In each training iteration, we choose the most descriptive regions based on the intermediate attention maps from a feature extractor, which enables searching for the most discriminative parts in an image. Our proposed method is simple yet effective, easy to implement and can boost the baseline significantly. Extensive experiments on CIFAR-10/100, ImageNet datasets with various CNN architectures (in a unified setting) demonstrate the effectiveness of our proposed method, which consistently outperforms the baseline CutMix and other methods by a significant margin."

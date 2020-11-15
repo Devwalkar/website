@@ -16,8 +16,9 @@ publishDate: 2018-12-20
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "17th IEEE International Conference on Machine Learning and Applications 2020"
+publication: "17th IEEE International Conference on Machine Learning and Applications (ICMLA) 2018"
 publication_short: "ICMLA-2018"
+special_mention: "Best Overall Paper Award"
 
 abstract: "Deep learning models have been successfully used in medical image analysis problems but they require a large amount of labeled images to obtain good performance. However, such large labeled datasets are costly to acquire. Active learning techniques can be used to minimize the number of required training labels while maximizing the model's performance. In this work, we propose a novel sampling method that queries the unlabeled examples that maximize the average distance to all training set examples in a learned feature space. We then extend our sampling method to define a better initial training set, without the need for a trained model, by using Oriented FAST and Rotated BRIEF (ORB) feature descriptors. We validate MedAL on 3 medical image datasets and show that our method is robust to different dataset properties. MedAL is also efficient, achieving 80% accuracy on the task of Diabetic Retinopathy detection using only 425 labeled images, corresponding to a 32% reduction in the number of required labeled examples compared to the standard uncertainty sampling technique, and a 40% reduction compared to random sampling."
 

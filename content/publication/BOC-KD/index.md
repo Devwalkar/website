@@ -16,7 +16,7 @@ publishDate: 2020-11-01
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "16th European Conference on Computer Vision 2020"
+publication: "16th European Conference on Computer Vision (ECCV) 2020"
 publication_short: "ECCV-2020"
 
 abstract: "This paper presents a novel knowledge distillation based model compression framework consisting of a student ensemble. It enables distillation of simultaneously learnt ensemble knowledge onto each of the compressed student models. Each model learns unique representations from the data distribution due to its distinct architecture. This helps the ensemble generalize better by combining every model’s knowledge. The distilled students and ensemble teacher are trained simultaneously without requiring any pretrained weights. Moreover, our proposed method can deliver multi-compressed students with single training, which is efficient and flexible for different scenarios. We provide comprehensive experiments using state-of-the-art classification models to validate our framework’s effectiveness. Notably, using our framework a 97% compressed ResNet110 student model managed to produce a 10.64% relative accuracy gain over its individual baseline training on CIFAR100 dataset. Similarly a 95% compressed DenseNet-BC (k=12) model managed a 8.17% relative accuracy gain."

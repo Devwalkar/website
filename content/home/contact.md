@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = "Contact"
+title = "Contact Me"
 subtitle = ""
 
 # Automatically link email and phone?
@@ -21,4 +21,3 @@ email_form = 1
 [netlify]
   captcha = true  # Enable CAPTCHA challenge to reduce spam?
 +++
-

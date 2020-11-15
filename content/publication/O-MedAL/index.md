@@ -3,11 +3,11 @@
 
 title: "O‐MedAL: Online active deep learning for medical image analysis"
 authors: ["Asim Smailagic", "Pedro Costa", "Alex Gaudio", "Kartik Khandelwal", "Mostafa Mirshekari", "Jonathon Fagert", "Devesh Walawalkar", "Susu Xu", "Adrian Galdran", "Pei Zhang", "Aurélio Campilho", "Hae Young Noh"]
-date: 2020-01-27
+date: 2019-12-20
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-01-27
+publishDate: 2019-12-20
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

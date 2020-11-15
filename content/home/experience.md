@@ -39,19 +39,23 @@ date_format = "Jan 2006"
   date_start = "2018-09-01"
   date_end = "2019-12-31"
   description = """
+
+  * Worked in Professor Marios Savvides's lab at CMU Cylab
   * Led a team of Deep learning researchers and iOS app developers to create a proprietary iOS application for driver drowsiness detection.
   * Led real time object detection for edge application based projects funded by US DTRA. 
   * Researched a novel framework for Knowledge Distillation based Deep Learning based model compression. 
   """
 
 [[experience]]
-  title = "Applied Research Intern"
+  title = "Summer Research Intern"
   company = "Cylab, Carnegie Mellon University"
   company_url = "https://www.cylab.cmu.edu/"
   location = "Pittsburgh, PA"
   date_start = "2018-06-01"
   date_end = "2018-08-31"
   description = """
+
+  * Interned in Professor Marios Savvides's lab at CMU Cylab
   * Researched on computationally efficient yet accurate Computer Vision architectures for performing various facial biometrics tasks which include face detection, face landmarking and face pose estimation.
   """
 
@@ -63,6 +67,8 @@ date_format = "Jan 2006"
   date_start = "2018-01-01"
   date_end = "2018-05-31"
   description = """
+
+  * Worked as research assistant to Professor Asim Smailagic in ECE dept, CMU
   * Researched onnovel active machine learning techniques being applied for medical imaging analysis.
   * Invented a new active machine learning technique to query the most important unlabeled images that the trained model is uncertain  about. Technique was developed in context of training CNN models to detect diabetic retinopathy in eye color fundus images.
   """

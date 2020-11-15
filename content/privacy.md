@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
-date: "2018-06-28T00:00:00+01:00"
-draft: true
+date: "2020-11-01T00:00:00+01:00"
+draft: false
 share: false
 commentable: false
 editable: false
@@ -12,4 +12,4 @@ header:
   image: ""
 ---
 
-Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+All data and opinions presented on this site are solely of Devesh Walawalkar. Please provide proper acknowledgment in case any of this site's data is used at an external site/venue.
