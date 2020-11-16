@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 150  # Order that this section will appear.
 
 title = ""
-subtitle = "Live Site Stats"
+subtitle = "Live site visitor locations"
 
 [design.background]
   # Apply a background color, gradient, or image.
