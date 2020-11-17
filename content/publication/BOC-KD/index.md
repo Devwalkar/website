@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "media/Publications/BOC_KD/BOC_KD.pdf"
+url_pdf: "https://arxiv.org/pdf/2011.07449.pdf"
 url_code: "https://github.com/Devwalkar/BOC-KD"
 url_dataset:
 url_poster:
