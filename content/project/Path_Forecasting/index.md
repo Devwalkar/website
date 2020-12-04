@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Stochastic Path Forecasting from Expert Demonstrations"
+title: "Forecasting Path from Expert Demonstrations"
 summary: "Research on path forecasting for self driving vehicle using CARLA simulator"
 authors: ["Nikhil Mohan","Devesh Walawalkar"]
 tags: ["Research","Computer Vision","Deep Reinforcement Learning","Self Driving Simulation"]
