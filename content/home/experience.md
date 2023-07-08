@@ -18,17 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Research Engineer"
+  company = "Flawless AI"
+  company_url = "https://www.flawlessai.com/"
+  location = "Los Angeles, CA"
+  date_start = "2022-08-08"
+  date_end = ""
+  description = """
+
+  * Conducting lead research on AI based facial analysis tech (Face detection, Face identification, Face motion tracking etc.).
+  * Developing core AI systems for character facial analysis for movie/TV show domain.
+  """
+
+[[experience]]
   title = "Machine Learning Research Engineer"
   company = "Honeywell Robotics"
   company_url = "https://www.honeywell.com/en-us"
   location = "Pittsburgh, PA"
   date_start = "2020-01-27"
-  date_end = ""
+  date_end = "2022-07-26"
   description = """
 
-  * Researching on Deep Learning architectures for various Computer Vision tasks.
-  * Facilitating AI application knowledge across various Honeywell Robotics teams.
-  * Developing complex Robotics AI based Perception system software.
+  * Researched on Deep Learning architectures for various Computer Vision tasks.
+  * Facilitated AI application knowledge across various Honeywell Robotics teams.
+  * Successfully built complex Robotics AI based Perception system software.
   """
 
 [[experience]]

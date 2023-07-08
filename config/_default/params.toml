@@ -93,14 +93,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "2555 Smallman St Suite 201", city = "Pittsburgh", region = "PA", postcode = "15222", country = "United States", country_code = "US"}
+address = {street = "1221 2nd St, 4th Flr", city = "Los Angeles", region = "CA", postcode = "90403", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.455377", longitude = "-79.980055"}
+coordinates = {latitude = "34.01716", longitude = "-118.49929"}
 
 # Directions for visitors to locate you.
-directions = "Enter Suite 201 on second floor"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

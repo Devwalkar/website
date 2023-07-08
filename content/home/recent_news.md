@@ -13,6 +13,16 @@ subtitle = ""
 <div style="display: table;width: 95%" markdown="1">
 
 <div class="row" style="display: table-row;">
+    <div style="display: table-cell;width: 20% "> <b>May, 2023:</b> </div>
+    <div style="display: table-cell;width: 80%">Filed 2 US patents. Links <a target="_blank" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MpHIZfEAAAAJ&authuser=1&citation_for_view=MpHIZfEAAAAJ:TQgYirikUcIC"><b>1</b></a>,<a target="_blank" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MpHIZfEAAAAJ&authuser=1&citation_for_view=MpHIZfEAAAAJ:R3hNpaxXUhUC"><b>2</b></a></div>
+  </div>
+
+<div class="row" style="display: table-row;">
+    <div style="display: table-cell;width: 20% "> <b>Aug, 2022:</b> </div>
+    <div style="display: table-cell;width: 80%">Joined <a target="_blank" href="https://www.flawlessai.com/"><b>Flawless AI</b></a> as Research Engineer!!!</div>
+  </div>
+
+<div class="row" style="display: table-row;">
     <div style="display: table-cell;width: 20% "> <b>Aug, 2020:</b> </div>
     <div style="display: table-cell;width: 80%"><a target="_blank" href="publication/boc-kd/"><b>1</b></a> paper accepted at ECCV 2020.</div>
   </div>
@@ -29,7 +39,7 @@ subtitle = ""
 
 <div class="row" style="display: table-row;">
     <div style="display: table-cell;width: 20% "> <b>Jan, 2020:</b> </div>
-    <div style="display: table-cell;width: 80%">Joined <a target="_blank" href="https://www.honeywell.com/en-us"><b>Honeywell</b></a> as ML Research Engineer.</div>
+    <div style="display: table-cell;width: 80%">Joined <a target="_blank" href="https://www.honeywell.com/en-us"><b>Honeywell</b></a> as ML Research Engineer!!!</div>
   </div>
 
 <div class="row" style="display: table-row;">
@@ -51,11 +61,6 @@ subtitle = ""
 <div class="row" style="display: table-row;">
     <div style="display: table-cell;width: 20% "> <b>Aug, 2018:</b> </div>
     <div style="display: table-cell;width: 80%"><a target="_blank" href="publication/medal/"><b>1</b></a> paper accepted at ICMLA 2018.</div>
-  </div>
-
-<div class="row" style="display: table-row;">
-    <div style="display: table-cell;width: 20% "> <b>May, 2017:</b> </div>
-    <div style="display: table-cell;width: 80%">Completed undergraduate studies at <a target="_blank" href="https://www.vjti.ac.in/"> <b>VJTI</b> </a> with Top 5 academic department ranking.</div>
   </div>
 
 </div>

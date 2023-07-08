@@ -6,20 +6,21 @@ title: Devesh Walawalkar
 superuser: true
 
 # Role/position
-role: Artificial Intelligence and Computer Vision Researcher
+role: Artificial Intelligence Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Honeywell
-  url: "https://www.honeywell.com/en-us"
+- name: Flawless AI
+  url: "https://www.flawlessai.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Self Supervised Learning, model evolution, Deep Learning model compression and Scene Understanding.
+bio: My research interests include Self Supervised Learning, Facial Analysis (Face Detection, Identification, landmarking etc.), neuroscience inspired AI and Scene Understanding.
 
 interests:
 - Artificial Intelligence
 - Computer Vision
-- Robotics
+- Facial Analysis
+- Pattern Recognition 
 
 education:
   courses:
@@ -66,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-<div style="text-align: justify"> I am an avid researcher in field of Artificial Intelligence, Deep Learning and Computer Vision. My research interests include Object Detection, 2D/3D Instance Segmentation, Deep Learning model compression, Self-Supervised Learning, AI model evolution and Scene Understanding. I also specialize in compute resource constrained real time inference of Deep Learning based Computer Vision models for various mobile devices like Nvidia AI embedded systems, Apple iphone, drones etc.
+<div style="text-align: justify"> I am an avid researcher in field of Artificial Intelligence, Deep Learning and Computer Vision. My research interests include Object Detection, facial analysis (Detection, Identification, Landmarking etc.), 2D/3D Instance Segmentation, Deep Learning model compression, Self-Supervised Learning and Scene Understanding. I also specialize in compute resource constrained real time inference of Deep Learning based Computer Vision models for various mobile devices like Nvidia AI embedded systems, Apple iphone, drones etc.
 
-I am currently working full time as a ML research engineer at Honeywell. I spend my time researching and building AI based perception system for robotics applications as well as working on personal Computer Vision research projects. </div>
+I currently work full time as a Lead Research Engineer at an exciting Hollywood AI startup called Flawless AI. I spend my time researching and building core Computer Vision AI systems for the movie/TV series domain at my startup as well as working on personal research projects. </div>
