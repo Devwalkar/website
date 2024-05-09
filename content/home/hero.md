@@ -34,7 +34,3 @@ weight = 10  # Order that this section will appear.
   text_color_light = true
 
 +++
-
-*“Research is to see what everybody has seen, and to think what nobody else has thought"* 
-
-  Albert Szent-Gyorgyi

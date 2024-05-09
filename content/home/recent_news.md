@@ -13,13 +13,23 @@ subtitle = ""
 <div style="display: table;width: 95%" markdown="1">
 
 <div class="row" style="display: table-row;">
+    <div style="display: table-cell;width: 20% "> <b>April, 2024:</b> </div>
+    <div style="display: table-cell;width: 80%">Served as official reviewer for <a target="_blank" href="https://eccv.ecva.net/"><b>ECCV 2024</b></a> and <a target="_blank" href="https://icpr2024.org/"><b>ICPR 2024</b></a></div>
+  </div>
+
+<div class="row" style="display: table-row;">
+    <div style="display: table-cell;width: 20% "> <b>March, 2024:</b> </div>
+    <div style="display: table-cell;width: 80%">Filed <a target="_blank" href="https://patents.google.com/patent/US20240096085A1/en?inventor=Walawalkar&oq=Walawalkar&page=1"><b>1</b></a> US patent</div>
+  </div>
+
+<div class="row" style="display: table-row;">
     <div style="display: table-cell;width: 20% "> <b>May, 2023:</b> </div>
     <div style="display: table-cell;width: 80%">Filed 2 US patents. Links <a target="_blank" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MpHIZfEAAAAJ&authuser=1&citation_for_view=MpHIZfEAAAAJ:TQgYirikUcIC"><b>1</b></a>,<a target="_blank" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MpHIZfEAAAAJ&authuser=1&citation_for_view=MpHIZfEAAAAJ:R3hNpaxXUhUC"><b>2</b></a></div>
   </div>
 
 <div class="row" style="display: table-row;">
     <div style="display: table-cell;width: 20% "> <b>Aug, 2022:</b> </div>
-    <div style="display: table-cell;width: 80%">Joined <a target="_blank" href="https://www.flawlessai.com/"><b>Flawless AI</b></a> as Research Engineer!!!</div>
+    <div style="display: table-cell;width: 80%">Joined <a target="_blank" href="https://www.flawlessai.com/"><b>Flawless AI</b></a> as Research Engineer!</div>
   </div>
 
 <div class="row" style="display: table-row;">
@@ -39,7 +49,7 @@ subtitle = ""
 
 <div class="row" style="display: table-row;">
     <div style="display: table-cell;width: 20% "> <b>Jan, 2020:</b> </div>
-    <div style="display: table-cell;width: 80%">Joined <a target="_blank" href="https://www.honeywell.com/en-us"><b>Honeywell</b></a> as ML Research Engineer!!!</div>
+    <div style="display: table-cell;width: 80%">Joined <a target="_blank" href="https://www.honeywell.com/en-us"><b>Honeywell</b></a> as ML Research Engineer!</div>
   </div>
 
 <div class="row" style="display: table-row;">
@@ -58,9 +68,9 @@ subtitle = ""
     <div style="display: table-cell;width: 80%">Received <a target="_blank" href="https://www.icmla-conference.org/icmla18/awards.html"> <b> Best Overall Paper Award </b> </a> at ICMLA 2018.</div>
   </div>
 
-<div class="row" style="display: table-row;">
+<!-- <div class="row" style="display: table-row;">
     <div style="display: table-cell;width: 20% "> <b>Aug, 2018:</b> </div>
     <div style="display: table-cell;width: 80%"><a target="_blank" href="publication/medal/"><b>1</b></a> paper accepted at ICMLA 2018.</div>
-  </div>
+  </div> -->
 
 </div>
