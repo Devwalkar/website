@@ -30,11 +30,11 @@ featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Citation
+  url: "media/Publications/BOC_KD/citation.txt"
+  icon_pack:
+  icon:
 
 url_pdf: "https://arxiv.org/pdf/2011.07449.pdf"
 url_code: "https://github.com/Devwalkar/BOC-KD"

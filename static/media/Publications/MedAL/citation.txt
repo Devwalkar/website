@@ -1,0 +1,8 @@
+@inproceedings{smailagic2018medal,
+  title={Medal: Accurate and robust deep active learning for medical image analysis},
+  author={Smailagic, Asim and Costa, Pedro and Noh, Hae Young and Walawalkar, Devesh and Khandelwal, Kartik and Galdran, Adrian and Mirshekari, Mostafa and Fagert, Jonathon and Xu, Susu and Zhang, Pei and others},
+  booktitle={2018 17th IEEE international conference on machine learning and applications (ICMLA)},
+  pages={481--488},
+  year={2018},
+  organization={IEEE}
+}

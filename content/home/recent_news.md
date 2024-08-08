@@ -13,6 +13,11 @@ subtitle = ""
 <div style="display: table;width: 95%" markdown="1">
 
 <div class="row" style="display: table-row;">
+    <div style="display: table-cell;width: 20% "> <b>July, 2024:</b> </div>
+    <div style="display: table-cell;width: 80%"><a target="_blank" href="publication/videoclusternet/"><b>1</b></a> paper accepted at <a target="_blank" href="https://eccv.ecva.net/"><b>ECCV 2024</b></a></div>
+  </div>
+
+<div class="row" style="display: table-row;">
     <div style="display: table-cell;width: 20% "> <b>April, 2024:</b> </div>
     <div style="display: table-cell;width: 80%">Served as official reviewer for <a target="_blank" href="https://eccv.ecva.net/"><b>ECCV 2024</b></a> and <a target="_blank" href="https://icpr2024.org/"><b>ICPR 2024</b></a></div>
   </div>
@@ -50,11 +55,6 @@ subtitle = ""
 <div class="row" style="display: table-row;">
     <div style="display: table-cell;width: 20% "> <b>Jan, 2020:</b> </div>
     <div style="display: table-cell;width: 80%">Joined <a target="_blank" href="https://www.honeywell.com/en-us"><b>Honeywell</b></a> as ML Research Engineer!</div>
-  </div>
-
-<div class="row" style="display: table-row;">
-    <div style="display: table-cell;width: 20% "> <b>May, 2019:</b> </div>
-    <div style="display: table-cell;width: 80%">Completed Masters studies in ECE from <a target="_blank" href="https://www.ece.cmu.edu/"><b>Carnegie Mellon University</b></a>.</div>
   </div>
 
 <div class="row" style="display: table-row;">

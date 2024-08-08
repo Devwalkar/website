@@ -1,0 +1,8 @@
+@inproceedings{walawalkar2020online,
+  title={Online ensemble model compression using knowledge distillation},
+  author={Walawalkar, Devesh and Shen, Zhiqiang and Savvides, Marios},
+  booktitle={Computer Vision--ECCV 2020: 16th European Conference, Glasgow, UK, August 23--28, 2020, Proceedings, Part XIX 16},
+  pages={18--35},
+  year={2020},
+  organization={Springer}
+}

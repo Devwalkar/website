@@ -30,11 +30,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Citation
+  url: "media/Publications/O_MedAL/citation.txt"
+  icon_pack:
+  icon:
 
 url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1353
 url_code:

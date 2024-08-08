@@ -1,0 +1,6 @@
+@article{walawalkar2020attentive,
+  title={Attentive cutmix: An enhanced data augmentation approach for deep learning based image classification},
+  author={Walawalkar, Devesh and Shen, Zhiqiang and Liu, Zechun and Savvides, Marios},
+  journal={arXiv preprint arXiv:2003.13048},
+  year={2020}
+}

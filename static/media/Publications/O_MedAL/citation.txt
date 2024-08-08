@@ -1,0 +1,10 @@
+@article{smailagic2020medal,
+  title={O-MedAL: Online active deep learning for medical image analysis},
+  author={Smailagic, Asim and Costa, Pedro and Gaudio, Alex and Khandelwal, Kartik and Mirshekari, Mostafa and Fagert, Jonathon and Walawalkar, Devesh and Xu, Susu and Galdran, Adrian and Zhang, Pei and others},
+  journal={Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery},
+  volume={10},
+  number={4},
+  pages={e1353},
+  year={2020},
+  publisher={Wiley Online Library}
+}
