@@ -1,0 +1,7 @@
+@inproceedings{walawalkar2024videoclusternet,
+  title={VideoClusterNet: Self-Supervised and Adaptive Face Clustering For Videos},
+  author={Walawalkar, Devesh and Garrido, Pablo},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2024},
+  publisher={Springer}
+}
