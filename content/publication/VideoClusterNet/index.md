@@ -41,7 +41,7 @@ url_code:
 url_dataset: "https://www.flawlessai.com/dataset/"
 url_poster:
 url_source: 
-url_slides: 
+url_slides: "media/Publications/videoclusternet/videoclusternet_slides.pdf"
 url_video: "media/Publications/videoclusternet/TBD_video.mp4"
 url_citation: 
 
