@@ -39,7 +39,7 @@ links:
 url_pdf: "https://arxiv.org/abs/2407.12214"
 url_code: 
 url_dataset: "https://www.flawlessai.com/dataset/"
-url_poster:
+url_poster: "media/Publications/videoclusternet/poster_videoclusternet.pdf"
 url_source: 
 url_slides: "media/Publications/videoclusternet/videoclusternet_slides.pdf"
 url_video: "media/Publications/videoclusternet/presentation_videoclusternet.mp4"
