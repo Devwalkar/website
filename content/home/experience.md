@@ -26,9 +26,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  * Conducting lead research on AI based facial analysis tech (Face detection, Face identification, Face motion tracking etc.).
-  * Developing core AI systems for character facial analysis for movie/TV show domain.
-  * Conducting research on data efficient techniques for Neural Face Rendering algorithms.
+  * Conducted lead research on AI based facial analysis tech (Face detection, Face identification, Face motion tracking etc.).
+  * Developed core AI systems for character facial analysis for movie/TV show domain.
+  * Conducted research on data efficient techniques for Neural Face Rendering algorithms.
   """
 
 [[experience]]
