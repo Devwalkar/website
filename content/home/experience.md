@@ -26,8 +26,8 @@ date_format = "Jan 2006"
   date_end = "2025-10-02"
   description = """
 
-  * Conducted research and deployment of movie character facial analysis tech as part of the core founding team. This included building scalable R\&D frameworks from zero for modules such as Detection, Identification, Motion tracking, Landmarks and Segmentation of character faces.
-  * Developed a fully automated and scalable labeling pipeline for face parsing, including facial occlusions and beard.
+  * Conducted research and deployment of movie character facial analysis tech as part of the core founding team.
+  * Built scalable R\&D frameworks from zero for modules such as Detection, Identification, Motion tracking, Landmarks and Segmentation of character faces.
   * Devised an efficient data sampling algorithm for finetuning a generic Neural Rendering model on character specific videos/shots, a core part of the company's visual dubbing product tech.
   <!-- * Led winning teams at 3 major internal hackathons aimed at prototyping innovative movie AI product tech.
   * Mentored research interns for various facial analysis research projects, with majority being deployed in the product. -->
