@@ -13,6 +13,11 @@ subtitle = ""
 <div style="display: table;width: 95%" markdown="1">
 
 <div class="row" style="display: table-row;">
+    <div style="display: table-cell;width: 20% "> <b>September, 2025:</b> </div>
+    <div style="display: table-cell;width: 80%">Awarded U.S. Invention Patent for AI based research as first inventor! <a target="_blank" href="https://patents.google.com/patent/US20240096085A1/en?inventor=Walawalkar&oq=Walawalkar&page=1"><b>Link</b></a></div>
+  </div>
+
+<div class="row" style="display: table-row;">
     <div style="display: table-cell;width: 20% "> <b>July, 2024:</b> </div>
     <div style="display: table-cell;width: 80%"><a target="_blank" href="publication/videoclusternet/"><b>1</b></a> paper accepted at <a target="_blank" href="https://eccv.ecva.net/"><b>ECCV 2024</b></a></div>
   </div>
@@ -27,10 +32,10 @@ subtitle = ""
     <div style="display: table-cell;width: 80%">Filed <a target="_blank" href="https://patents.google.com/patent/US20240096085A1/en?inventor=Walawalkar&oq=Walawalkar&page=1"><b>1</b></a> US patent</div>
   </div>
 
-<div class="row" style="display: table-row;">
+<!-- <div class="row" style="display: table-row;">
     <div style="display: table-cell;width: 20% "> <b>May, 2023:</b> </div>
     <div style="display: table-cell;width: 80%">Filed 2 US patents. Links <a target="_blank" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MpHIZfEAAAAJ&authuser=1&citation_for_view=MpHIZfEAAAAJ:TQgYirikUcIC"><b>1</b></a>,<a target="_blank" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MpHIZfEAAAAJ&authuser=1&citation_for_view=MpHIZfEAAAAJ:R3hNpaxXUhUC"><b>2</b></a></div>
-  </div>
+  </div> -->
 
 <div class="row" style="display: table-row;">
     <div style="display: table-cell;width: 20% "> <b>Aug, 2022:</b> </div>
@@ -54,7 +59,7 @@ subtitle = ""
 
 <div class="row" style="display: table-row;">
     <div style="display: table-cell;width: 20% "> <b>Jan, 2020:</b> </div>
-    <div style="display: table-cell;width: 80%">Joined <a target="_blank" href="https://www.honeywell.com/en-us"><b>Honeywell</b></a> as ML Research Engineer!</div>
+    <div style="display: table-cell;width: 80%">Joined <a target="_blank" href="https://www.honeywell.com/en-us"><b>Honeywell</b></a> as Advanced Data Scientist!</div>
   </div>
 
 <div class="row" style="display: table-row;">
