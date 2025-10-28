@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.flawlessai.com/"
   location = "Los Angeles, CA, USA"
   date_start = "2022-08-08"
-  date_end = "2025-10-02"
+  date_end = ""
   description = """
 
   * Conducted research and deployment of movie character facial analysis tech as part of the core founding team.
