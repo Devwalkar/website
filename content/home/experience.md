@@ -18,12 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "CV/AI Research Engineer"
+  company = "Ultron AI"
+  company_url = "https://www.ultronai.com/"
+  location = "Los Angeles, CA, USA (Remote)"
+  date_start = "2025-10-01"
+  date_end = ""
+  description = """
+
+  * Developed a custom object detection architecture for retail AI use-cases, involving automated checkout and out-of-stock detection.
+  * Deployed custom architecture on edge AI platforms using LiteRT, performed model optimization steps such as pruning and quantization.
+  """
+
+[[experience]]
   title = "Research Engineer"
   company = "Flawless AI"
   company_url = "https://www.flawlessai.com/"
   location = "Los Angeles, CA, USA"
   date_start = "2022-08-08"
-  date_end = ""
+  date_end = "2025-09-30"
   description = """
 
   * Conducted lead research on AI based facial analysis tech (Face detection, Face identification, Face motion tracking etc.).
