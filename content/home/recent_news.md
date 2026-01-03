@@ -14,7 +14,7 @@ subtitle = ""
 
 <div class="row" style="display: table-row;">
     <div style="display: table-cell;width: 20% "> <b>Dec, 2025:</b> </div>
-    <div style="display: table-cell;width: 80%">Granted U.S. Patent for AI based Object Detection Compression Framework <a target="_blank" href="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12505663"><b>Link</b></a></div>
+    <div style="display: table-cell;width: 80%">Granted <a target="_blank" href="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12505663"><b>U.S. Patent</b></a> for a AI Model Compression Framework</div>
   </div>
 
 <div class="row" style="display: table-row;">

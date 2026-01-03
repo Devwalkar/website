@@ -6,12 +6,12 @@ title: Devesh Walawalkar
 superuser: true
 
 # Role/position
-role: Artificial Intelligence Researcher
+role: CV & AI Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Flawless AI
-  url: "https://www.flawlessai.com/"
+- name: Ultron AI
+  url: "https://www.ultronai.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Self Supervised Learning, Facial Analysis (Face Detection, Identification, landmarking etc.), neuroscience inspired AI and Scene Understanding.
