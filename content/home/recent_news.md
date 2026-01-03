@@ -27,11 +27,6 @@ subtitle = ""
     <div style="display: table-cell;width: 80%">Served as official reviewer for <a target="_blank" href="https://eccv.ecva.net/"><b>ECCV 2024</b></a> and <a target="_blank" href="https://icpr2024.org/"><b>ICPR 2024</b></a></div>
   </div>
 
-<div class="row" style="display: table-row;">
-    <div style="display: table-cell;width: 20% "> <b>March, 2024:</b> </div>
-    <div style="display: table-cell;width: 80%">Filed <a target="_blank" href="https://patents.google.com/patent/US20240096085A1/en?inventor=Walawalkar&oq=Walawalkar&page=1"><b>1</b></a> US patent</div>
-  </div>
-
 <!-- <div class="row" style="display: table-row;">
     <div style="display: table-cell;width: 20% "> <b>May, 2023:</b> </div>
     <div style="display: table-cell;width: 80%">Filed 2 US patents. Links <a target="_blank" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MpHIZfEAAAAJ&authuser=1&citation_for_view=MpHIZfEAAAAJ:TQgYirikUcIC"><b>1</b></a>,<a target="_blank" href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MpHIZfEAAAAJ&authuser=1&citation_for_view=MpHIZfEAAAAJ:R3hNpaxXUhUC"><b>2</b></a></div>
