@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Research Engineer"
+  title = "AI Research Engineer"
   company = "Flawless AI"
   company_url = "https://www.flawlessai.com/"
   location = "Los Angeles, CA, USA"
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Machine Learning Research Engineer"
+  title = "Advanced Computer Vision Researcher"
   company = "Honeywell Robotics"
   company_url = "https://www.honeywell.com/en-us"
   location = "Pittsburgh, PA, USA"
@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Lead Deep Learning Researcher"
+  title = "Computer Vision Research Lead"
   company = "Cylab, Carnegie Mellon University"
   company_url = "https://www.cylab.cmu.edu/"
   location = "Pittsburgh, PA, USA"
