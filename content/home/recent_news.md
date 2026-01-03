@@ -13,8 +13,8 @@ subtitle = ""
 <div style="display: table;width: 95%" markdown="1">
 
 <div class="row" style="display: table-row;">
-    <div style="display: table-cell;width: 20% "> <b>Sept, 2025:</b> </div>
-    <div style="display: table-cell;width: 80%">Awarded U.S. Patent for AI research as first inventor! <a target="_blank" href="https://patents.google.com/patent/US20240096085A1/en?inventor=Walawalkar&oq=Walawalkar&page=1"><b>Link</b></a></div>
+    <div style="display: table-cell;width: 20% "> <b>Dec, 2025:</b> </div>
+    <div style="display: table-cell;width: 80%">Granted U.S. Patent for AI based Object Detection Compression Framework <a target="_blank" href="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12505663"><b>Link</b></a></div>
   </div>
 
 <div class="row" style="display: table-row;">
